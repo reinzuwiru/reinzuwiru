@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reinzuwiru or name = 'William Rains' ;
 - 👀 I’m interested in Computer Programming, sports, cryptocurrency, and video games 
-- 🌱 I’m currently learning Python level II, SQL I, and Java I
+- 🌱 I’m currently learning Python level II, SQL I, and Java I.  I'm skilled in HTML5, CSS3, and JavaScript, as well as Solidity.
 - 💞️ I’m looking to collaborate on anything, I'm just interested in learning! 
 - 📫 How to reach me, email: wrains0004@kctcs.edu
 
